@@ -31,4 +31,5 @@ W ramach projektu wykorzystano dwa podstawowe widoki:
 
 - `README.md` – opis projektu,
 - `medica_colab_demo.ipynb` – notebook Google Colab z przykładowym kodem,
-- `docs/ux-ui/` – folder na eksporty ekranów z Figmy.
+- `materiały UX/UI` – eksporty lub zrzuty ekranów z projektu Figma,
+- `dokumentacja projektowa` – materiały opisujące założenia systemu Medica+.
